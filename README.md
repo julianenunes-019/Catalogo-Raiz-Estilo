@@ -1,2 +1,2 @@
 # Catalogo-Juli
-Catalogo Digital desenvolvido em react para apresentar um site de salão de beleza no SENAI.
+Catálogo digital desenvolvido com React, com o objetivo de apresentar os serviços e promoções de um salão de beleza, como parte de um projeto acadêmico no SENAI.
