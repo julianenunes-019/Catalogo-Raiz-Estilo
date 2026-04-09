@@ -2,9 +2,9 @@
 
 Pasta cartao
 
--cartalogo
+cartalogo
 -contatos
 -inicio
 -promocao
 
-## No cartao contatos eu inserir links direcionados no e-mail, WhatsApp e Endereço.
+## Eu coloquei links clicáveis nos contatos para que, ao clicar, o usuário seja direcionado direto para o e-mail, WhatsApp ou Endereço.
